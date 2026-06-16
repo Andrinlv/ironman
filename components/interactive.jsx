@@ -2,7 +2,7 @@
 // Interaktiv: Status-Board "Heute" + Renntag-Simulator
 // ============================================================
 
-const PLAN_START = new Date('2026-06-15T00:00:00');
+const PLAN_START = new Date('2026-06-01T00:00:00');
 const MS_DAY = 86400000;
 
 const TICKS = [
